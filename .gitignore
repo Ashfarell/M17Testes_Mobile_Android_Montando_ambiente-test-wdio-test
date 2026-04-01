@@ -1,3 +1,10 @@
+node_modules/
+.env
+*.log
+*.apk
+*.apks
+*.zip
+chromedriver*
 # Logs
 logs
 *.log
